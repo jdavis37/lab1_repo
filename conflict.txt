@@ -1,5 +1,5 @@
 This is a conflict resolution test.
 
-Let's conflict with line 3.
+Let's conflict with line...
 
 Good luck!
