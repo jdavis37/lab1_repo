@@ -1,5 +1,5 @@
 This is a conflict resolution test.
 
-Let's conflict with line...
+Let's conflict with line 12346579 - this is the conflict line...
 
 Good luck!
